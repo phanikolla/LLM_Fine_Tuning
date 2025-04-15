@@ -5,7 +5,7 @@
 
 **Reducing toxicity in text generation using Reinforcement Learning from Human Feedback (RLHF) with FLAN-T5 base model**
 
-![RLHF Workflow](https://raw.githubusercontent.com/phanikolla/LLM_Fine_Tuning/main/RLHF_Project/assets/workflow.png)
+![RLHF Workflow](https://raw.githubusercontent.com/phanikolla/LLM_Fine_Tuning/main/RLHF_Project/assets/RLHF-workflow.png)
 
 ## 📖 Table of Contents
 - [Project Overview](#-project-overview)

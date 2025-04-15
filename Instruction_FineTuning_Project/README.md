@@ -103,7 +103,7 @@ print(response)
 | Perplexity      | 24.7       | 12.3       |
 | Inference Speed | 142ms      | 155ms      |
 
-![Training Loss Curve](https://raw.githubusercontent.com/phanikolla/LLM_Fine_Tuning/main/Instruction_FineTuning_Project/trainingloss.png)
+![Training Loss Curve](https://raw.githubusercontent.com/phanikolla/LLM_Fine_Tuning/main/Instruction_FineTuning_Project/trainingLoss.png)
 
 ## 🤝 Contributing
 We welcome contributions! Please see our [Contribution Guidelines](CONTRIBUTING.md) and follow these steps:

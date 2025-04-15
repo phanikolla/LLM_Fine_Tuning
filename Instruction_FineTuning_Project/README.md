@@ -5,7 +5,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-![LLM Fine-Tuning Banner](https://raw.githubusercontent.com/phanikolla/LLM_Fine_Tuning/main/RLHF_Project/llm_fineTuning.png)
+![LLM Fine-Tuning Banner](https://raw.githubusercontent.com/phanikolla/LLM_Fine_Tuning/main/Instruction_FineTuning_Project/llm_fineTuning.png)
 
 > **Professional-grade toolkit for instruction fine-tuning of large language models**
 
